@@ -14,7 +14,7 @@ This new assignment consists of two technical products. You will submit the foll
 ## Files
 Download the following files to help you get started:
 
-[Module 11 Challenge files]()
+[Module 11 Challenge files](./StarterCode/)
 ## Instructions
 ### Part 1: Scrape Titles and Preview Text from Mars News
 Open the Jupyter Notebook in the starter code folder named `part_1_mars_news.ipynb`. You will work in this code as you follow the steps below to scrape the [Mars News website]("https://static.bc-edx.com/data/web/mars_news/index.html).
